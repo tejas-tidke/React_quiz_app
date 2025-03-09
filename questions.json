@@ -1,0 +1,170 @@
+{
+    "questions": [
+      {
+        "question": "What is the primary purpose of Node.js?",
+        "options": [
+          "Build user interfaces",
+          "Run JavaScript code outside the browser",
+          "Store data in a database",
+          "Create graphics for web pages"
+        ],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which HTML tag is used to define an unordered list?",
+        "options": [
+          "<ul>",
+          "<ol>",
+          "<li>",
+          "<div>"
+        ],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is React primarily used for?",
+        "options": [
+          "Backend framework",
+          "Database management tool",
+          "Frontend UI library",
+          "Server-side routing"
+        ],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which method is used to create a new record in a MongoDB database?",
+        "options": [
+          "db.insert()",
+          "db.save()",
+          "db.create()",
+          "db.add()"
+        ],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which command is used to install dependencies in a Node.js project?",
+        "options": [
+          "npm install",
+          "npm run",
+          "npm add",
+          "npm init"
+        ],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is Express.js used for?",
+        "options": [
+          "Building RESTful APIs in Node.js",
+          "Managing MongoDB databases",
+          "Building user interfaces",
+          "Handling client-side JavaScript"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "What is the role of the useState hook in React?",
+        "options": [
+          "Managing global state",
+          "Storing local component state",
+          "Fetching data from APIs",
+          "Handling routing"
+        ],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What is the key difference between SQL and NoSQL databases?",
+        "options": [
+          "SQL uses a non-relational model, NoSQL uses a relational model",
+          "SQL is for structured data, NoSQL is for unstructured data",
+          "SQL is for front-end applications, NoSQL is for back-end applications",
+          "SQL is better for large-scale applications"
+        ],
+        "correctOption": 1,
+        "points": 20
+      },
+      {
+        "question": "What does CORS stand for in web development?",
+        "options": [
+          "Cross-Origin Resource Sharing",
+          "Cascading Optimization Routing System",
+          "Computer Operating Resource Security",
+          "Client-Origin Resource Sync"
+        ],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which of the following is used to handle asynchronous operations in JavaScript?",
+        "options": [
+          "setInterval()",
+          "fetch()",
+          "console.log()",
+          "require()"
+        ],
+        "correctOption": 1,
+        "points": 20
+      },
+      {
+        "question": "What is the purpose of the useEffect hook in React?",
+        "options": [
+          "To trigger side effects in functional components",
+          "To manage global application state",
+          "To pass props to child components",
+          "To update component state"
+        ],
+        "correctOption": 0,
+        "points": 20
+      },
+      {
+        "question": "What is a primary difference between REST and GraphQL APIs?",
+        "options": [
+          "REST uses HTTP requests, GraphQL uses WebSockets",
+          "GraphQL allows clients to specify the data they need, REST has predefined endpoints",
+          "REST is more secure than GraphQL",
+          "GraphQL is used for relational databases, REST is for non-relational databases"
+        ],
+        "correctOption": 1,
+        "points": 30
+      },
+      {
+        "question": "Which of these is used to manage state across multiple components in React?",
+        "options": [
+          "Context API",
+          "Redux",
+          "React Router",
+          "Axios"
+        ],
+        "correctOption": 1,
+        "points": 30
+      },
+      {
+        "question": "What does the 'npm start' command do in a React project?",
+        "options": [
+          "Compiles the React code",
+          "Installs dependencies",
+          "Runs the development server",
+          "Builds the project for production"
+        ],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the purpose of a package.json file in a Node.js project?",
+        "options": [
+          "To store project dependencies and metadata",
+          "To configure the build process",
+          "To track the project's version",
+          "To specify the entry point for the application"
+        ],
+        "correctOption": 0,
+        "points": 20
+      }
+    ]
+  }
+  
